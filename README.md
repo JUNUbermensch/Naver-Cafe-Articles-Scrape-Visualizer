@@ -1,5 +1,5 @@
 # Naver_Cafe_Articles_Visualizer
-Visualize Naver Cafe Articles using wordcloud
+This program scrape titles of Naver Cafe's Articles and Visualize using Wordcloud
 
 ![화면 캡처 2023-03-25 015131](https://user-images.githubusercontent.com/79557712/227590612-1c514681-272f-4aed-8b3e-e5149eef918b.png)
 
